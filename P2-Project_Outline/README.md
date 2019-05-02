@@ -17,9 +17,9 @@ In the app a user/employee will be able to signup and login to leave a note or p
 his/her schedule. And use a mobile device to control the time food stays in a grill. Also managers can
 notify a person in charge about anything new even though they are away (post a note or message from
   their mobile device).
-The idea was initiated from my work place. The managers leave as a note or message in a piece of
-paper, and sometimes forget to mention it so a task remains undone. The manager also uses a paper to
-renew our schedule every week, so if I am off in the day of cycle, He has to remind me of my next day
+The idea was initiated from my work place. The managers leave us a note or message in a piece of
+paper, and sometimes if they forget to mention it, a task remains undone. The manager also uses a paper to
+renew our schedule every week, so if I am off in the day of schedule cycle, He has to remind me of my next day
 schedule or i have to ask him about my next schedule. Finally we use a paper to write the time a food
 is put in the display grill and calculate the time it will be ready and expire, and remember to move
 it forward in the grill when it is ready.
@@ -27,6 +27,7 @@ it forward in the grill when it is ready.
 ### Features
 - User login : User must be logged in to post a note, edit or delete a note
 - Create a note: Any user logged in must be able to create a note
+- Badges: To notify if there is a new note or message
 - Edit and delete: A user can edit or delete his/her note but not able to modify others
 - Mark completed: A logged in user can mark a note as completed
 - Schedule: A user can access the schedule of the given week, but admins only can create or modify
