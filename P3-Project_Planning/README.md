@@ -9,12 +9,15 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-![Wireframes](https://github.com/adonayab/python_proj1_manager_app/blob/master/project-layout/Manager%20App%20Wire%20Frame.pdf)
+
+https://github.com/adonayab/python_proj1_manager_app/blob/master/project-layout/Manager%20App%20Wire%20Frame.pdf
 
 ### Project Tracker
 https://github.com/users/adonayab/projects/1
+
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
 ### Project Repo Link
+
 https://github.com/adonayab/python_proj1_manager_app.git
 (Include a link to your project on GitHub)
