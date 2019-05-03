@@ -13,11 +13,11 @@ For this assignment, you'll create some initial plans for your project.
 https://github.com/adonayab/python_proj1_manager_app/blob/master/project-layout/Manager%20App%20Wire%20Frame.pdf
 
 ### Project Tracker
-https://github.com/users/adonayab/projects/1
-
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
+https://github.com/users/adonayab/projects/1
+
 ### Project Repo Link
+(Include a link to your project on GitHub)
 
 https://github.com/adonayab/python_proj1_manager_app.git
-(Include a link to your project on GitHub)
