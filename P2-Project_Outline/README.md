@@ -7,15 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My app will help improve the communication between managers and employees to improve work flow and
-work performance in retail stores. The app will have 3 main navigation tabs. One for Notification,
+This web app is to help improve the communication between managers and employees for a better work flow and
+performance in retail stores. The app has 3 main navigation tabs. One for Notification,
 second one for scheduling and third one for grill timer. The notification will have 4 sub tabs. The
 first one is for
 Urgent messages, second one for General messages, third one for completed Tasks/messages, fourth one
 for Daily Tasks.
 In the app a user/employee will be able to signup and login to leave a note or post a message. Check
-his/her schedule. And use a mobile device to control the time food stays in a grill. Also managers can
-notify a person in charge about anything new even though they are away (post a note or message from
+his/her schedule. And use a mobile device (tablet) to control the time food stays on a grill. Also managers can
+notify a person in charge about anything new even though they are away from work place (post a note or message from
   their mobile device).
 The idea was initiated from my work place. The managers leave us a note or message in a piece of
 paper, and sometimes if they forget to mention it, a task remains undone. The manager also uses a paper to
@@ -47,4 +47,4 @@ it forward in the grill when it is ready.
 - Ionic (to make a mobile webapp)
 
 ### Project Tracker
-https://www.pivotaltracker.com/n/projects/2344293
+https://github.com/users/adonayab/projects/1
