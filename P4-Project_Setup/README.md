@@ -9,4 +9,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
 
-[Project Manager App](https://github.com/adonayab/python_proj1_manager_app)
+https://github.com/adonayab/python_proj1_manager_app
